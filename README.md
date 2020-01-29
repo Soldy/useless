@@ -1,5 +1,5 @@
-# useless \
-useless framework \ 
+# useless  (minimalist php framework) \
+
  \
  \
 Principles: \
@@ -51,7 +51,7 @@ Documentation:\
 
   t = tool \
   ┣━━tC = console \
-  ┣━━┓tE = element \
+  ┣━┓tE = element \
   ┃  ┣━━tEo = element to out \
   ┃  ┣━━tEs = element single \
   ┃  ┣━━tEt = element title \
@@ -59,20 +59,20 @@ Documentation:\
   ┃  ┣━━tEts = element sub title \
   ┃  ┗━━tEtso = element sub title to out \
   ┣━━tF = form \
-  ┣━━┓tH = menu \
+  ┣━┓tH = menu \
   ┃  ┗━━tHa = menu point add \
-  ┣━━┓tL = links \
+  ┣━┓tL = links \
   ┃  ┗━━tLo = link to out \
-  ┣━━┓tM = message \
+  ┣━┓tM = message \
   ┃  ┣━━tMa = message add \
   ┃  ┣━━tMt = message test \
   ┃  ┗━━tMapi = message api \
-  ┣━━┓tR = error \
+  ┣━┓tR = error \
   ┃  ┣━━tRa = error add \
   ┃  ┣━━tRt = error test \
   ┃  ┗━━tRapi = error api \
-  ┣━━tS = sub menu \
-  ┗━━┓tT = table \
+  ┣━tS = sub menu \
+  ┗━┓tT = table \
      ┣━━tTo = tTo = table to out \
      ┣━━tTl = tTo = table link lines \
      ┗━━tTlo = tTo = table link lines to out \
