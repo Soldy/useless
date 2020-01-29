@@ -1,16 +1,16 @@
-# useless  (minimalist php framework) \
+# useless  (minimalist php framework) 
 
  \
  \
-Principles: \
+Principles:  
 COI  - Carpe omniem impremis \
 DRY  - Don't repeat yourself \
 KISS - Keep It Stupid Simple \
  \
  \
-Documentation:\
-  
-\
+Documentation:  
+
+ \
 ```
   h = html  
   ┣━hD = html Debug  
